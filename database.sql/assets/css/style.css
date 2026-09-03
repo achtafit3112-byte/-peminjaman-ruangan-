@@ -1,0 +1,8 @@
+body { background:#f5f7fb; }
+.sidebar { min-height:calc(100vh - 56px); background:#fff; border-right:1px solid #e5e7eb; }
+.list-group-item { border:0; margin-bottom:4px; border-radius:8px !important; }
+.list-group-item:hover { background:#e8f0fe; }
+.card-soft { border:0; border-radius:14px; box-shadow:0 4px 18px rgba(0,0,0,.06); }
+.hero { background:linear-gradient(135deg,#0d6efd,#4dabf7); color:#fff; border:0; border-radius:16px; }
+.login-page { min-height:100vh; background:linear-gradient(135deg,#0d6efd,#74b9ff); }
+.login-card { max-width:420px; width:100%; border:0; border-radius:18px; }
